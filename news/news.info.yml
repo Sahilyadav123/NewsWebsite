@@ -1,0 +1,16 @@
+name: News Agency
+type: theme
+base theme: claro
+description: this is my custom theme
+# package: yes
+core_version_requirement: ^8 || ^9 || ^10
+
+regions:
+  brand: 'Brand'
+  main_navigation: 'Main Navigation'
+  content: 'Content'
+  footer: 'Footer'
+
+libraries:
+  - news/bootstrap
+ 
